@@ -930,11 +930,11 @@
 		nav {
 			border-top: 1px solid #dedede;
 			border-bottom: 1px solid #dedede;
-			margin-bottom: 20px;
-			padding: 20px 0;
+			margin-bottom: 10px;
+			padding: 10px 0;
 		}
 		nav a {
-			margin: 0 30px;
+			margin: 0 10px;
 		}
 
 /* Footer */
